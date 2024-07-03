@@ -4,5 +4,6 @@ public class simple
 	{
 		system.out.println("spt tumkuru");
 		system.out.println("gpt,mysore");
+		system.out.println("banglore");
 		}
 }
